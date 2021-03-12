@@ -1,0 +1,10 @@
+{
+   "domain": "plex_client",
+   "name": "Plex Client",
+   "version": "v1.00",
+   "documentation": "https://github.com/kingwoftam/home-assistant-custom-components-plex_client",
+   "issue_tracker": "https://github.com/kingwoftam/home-assistant-custom-components-plex_client/issues",
+   "dependencies": [],
+   "codeowners": ["@kingwoftam"],
+   "requirements": []
+}
